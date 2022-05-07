@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../ADV-blog-website-images-student"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ADV-C144-Student"
+	}
+}
